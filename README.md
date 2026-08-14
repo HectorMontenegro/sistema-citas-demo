@@ -185,5 +185,4 @@ sistema-citas-demo/
 Estudiante de Ingeniería de Sistemas interesado en desarrollo de software,
 automatización de procesos y arquitectura de soluciones.
 
-Este repositorio es una adaptación pública para portafolio. No representa un
-servicio activo de citas ni una afiliación con plataformas externas.
+
